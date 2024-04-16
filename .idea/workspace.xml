@@ -4,43 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90ca2bfa-495d-4879-b6dc-5ae190e8e5e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Dish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ReastaurentResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ReastaurentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Restaurent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SwiggyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SwiggyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carDemo/model/Ac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carDemo/model/Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carDemo/model/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carDemo/model/CarService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carDemo/model/CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carDemo/model/Door.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carDemo/model/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carDemo/model/FuelTank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carDemo/model/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carDemo/model/Seat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carDemo/model/Wheel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/home/BadRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/home/Hall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/home/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/home/Kitchen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/home/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/home/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/home/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pagination/DataService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pagination/Pagination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pagination/PaginationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    <list default="true" id="90ca2bfa-495d-4879-b6dc-5ae190e8e5e5" name="Changes" comment="commite from restaurant">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/equalsHashCode/Adress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/equalsHashCode/EqualsHashCodeDemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/restaurant/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/restaurant/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/restaurant/Restaurent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/restaurant/Restaurent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/restaurant/SwiggyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/restaurant/SwiggyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/restaurant/SwiggyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/restaurant/SwiggyTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Dinesh-Adabala&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Dinesh-Adabala/swiggyAppNew.git&quot;,
+    &quot;accountId&quot;: &quot;308742c4-8baf-4c90-8d9f-12bc6bc09c3f&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
@@ -70,6 +53,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.CarTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EqualsHashCodeDemoTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.Pagination.executor&quot;: &quot;Run&quot;,
     &quot;Application.PaginationResponse.executor&quot;: &quot;Run&quot;,
     &quot;Application.PaginationTest.executor&quot;: &quot;Run&quot;,
@@ -86,7 +70,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.SwiggyTest">
     <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.carDemo.model.CarTest" />
       <module name="untitled1" />
@@ -100,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pagination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.pagination.Pagination" />
+    <configuration name="EqualsHashCodeDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.equalsHashCode.EqualsHashCodeDemoTest" />
       <module name="untitled1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.pagination.*" />
+          <option name="PATTERN" value="org.example.equalsHashCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,10 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwiggyTest" />
+        <item itemvalue="Application.EqualsHashCodeDemoTest" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.PaginationTest" />
         <item itemvalue="Application.CarTest" />
-        <item itemvalue="Application.SwiggyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -172,6 +157,19 @@
       <option name="presentableId" value="Default" />
       <updated>1712465955243</updated>
     </task>
+    <task id="LOCAL-00001" summary="commite from restaurant">
+      <option name="closed" value="true" />
+      <created>1712837337613</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712837337613</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commite from restaurant" />
+    <option name="LAST_COMMIT_MESSAGE" value="commite from restaurant" />
   </component>
 </project>
